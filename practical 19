@@ -1,0 +1,8 @@
+echo "current month"
+cal 
+
+echo "current year"
+cal -y
+
+echo "range"
+cal -3
